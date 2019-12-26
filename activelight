@@ -1,0 +1,7 @@
+function doTrafficLights() {
+  const activeLight = getActiveLight();
+ 
+  if activeLight(get active light to turn yellow);
+
+}
+turnYellow(activeLight)
